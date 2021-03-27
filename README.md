@@ -3,7 +3,7 @@
 Warning: URL isn't supports more than 2,048 characters.
 
 URL example:
-http://localhost:3000<whatever>&width=5000&height=500&fontSize=200&color=rgb(32,206,23)&backgroundColor=rgb(13,23,223)&text=["hello","world"]
+http://localhost:3000(whatever)&width=5000&height=500&fontSize=200&color=rgb(32,206,23)&backgroundColor=rgb(13,23,223)&text=["hello","world"]
 
 Available params and their default configuration:
 text = [],
