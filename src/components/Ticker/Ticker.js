@@ -7,9 +7,7 @@ const Ticker = ({ text }) => {
       <div className="ticker-items-wrapper">
         {text.map((el, index) => (
           <div key={el + index} className="ticker-item">
-            {/* <p> */}
             {`${el} and ${index}`}
-            {/* </p> */}
           </div>
         ))}
       </div>
